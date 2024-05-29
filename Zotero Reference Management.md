@@ -4,7 +4,7 @@ highlightTheme: monokai
 ---
 
 # Zotero Reference Management
-![[zotero_logo.png]]
+![[img/zotero_logo.png]]
 
 ---
 ### Preamble
@@ -16,7 +16,7 @@ This is mostly a 'follow-along' or an interactive demonstration of using Zotero 
 - The software should be <mark style="background: #BBFABBA6;">easy</mark> to use, <mark style="background: #BBFABBA6;">compatible</mark> with various formats and platforms, and ideally <mark style="background: #BBFABBA6;">free</mark> or low-cost to accommodate tight budgets. 
 - <mark style="background: #FFF3A3A6;">Zotero offers a comprehensive suite of features to meet these needs.</mark>
 
-![[zotero_name.svg]]
+![[img/zotero_name.svg]]
 
 ---
 # Zotero Advantage 👍
@@ -40,14 +40,14 @@ Other reference management tools like EndNote, Mendeley, and RefWorks also offer
 
 ---
 # Platform and Software 🤝
-![[zotero_system_requirements.png]]
+![[img/zotero_system_requirements.png]]
 
 ---
 ### About Me 🙇
 
 > [!cite]Hi! 👋 I'm Alvin Alexander. I love coding in Python🐍 and working with machine learning so much that I ended up doing a PhD in computer science on applying GANs to satellite images. I have been using Zotero for the past two years for class assignments, personal curiosity, and research.
 
-![[me.png | 300 x 300]]
+![[img/me.png | 300 x 300]]
 
 Presentation can be found at https://github.com/elvinado/Zotero-Sharing
 
@@ -125,7 +125,7 @@ Demonstration integration with Obsidian Note Taking tools
 
 ---
 # Thank you!
-![[zotero_shield.svg]]
+![[img/zotero_shield.svg]]
 
 References: 
 https://www.zotero.org/support/
