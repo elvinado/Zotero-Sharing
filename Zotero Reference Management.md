@@ -49,7 +49,8 @@ Other reference management tools like EndNote, Mendeley, and RefWorks also offer
 
 ![me](img/me.png)
 
-Presentation can be found at https://github.com/elvinado/Zotero-Sharing
+This presentation slides can be found at https://github.com/elvinado/Zotero-Sharing
+
 
 ---
 #### Today's Agenda
@@ -66,62 +67,127 @@ Presentation can be found at https://github.com/elvinado/Zotero-Sharing
 - ✅ Important note about data management
 	- ☑️ Zotero Library, Collection, Subcollection
 	- ☑️ PDF files locations
+	- ☑️ Deduplication
+
 
 ---
 #### Today's Agenda
-## Part 2: Literature Review and Management 🗂️
+## Part 2: Literature Management and Review 🗂️
 - ✅ Navigating Zotero
 - ✅ Essential Plugins for Zotero
 	- ☑️ Better BibTex
 	- ☑️ Zutilo Utility
-- ✅ Info ℹ️, Notes 📝, Tags 🏷️, Related 🔗
+- ✅ Metadata
 - ✅ Annotating PDF within Zotero
+
+
 
 ---
 #### Today's Agenda (If time permits)
 ## Part 3: Extras ✨
 Demonstration integration with Obsidian Note Taking tools
 
+
 ---
 ## Part 1
 # Adding items and citation
 
+
+---
+## ⚙️Configure Connector Proxy
+
+- Remember to restart Browser and Zotero after configuration
+
 ---
 ## 🌐 Add item using web browser
 
+
 ---
-## 📄 Add item directly from PDF
+## 📄 Add item directly as PDF
+
 
 ---
 ## 🆔 Add item using identifier
 
 
 ---
+## ⚙️Configure Citation Style for MS Word
+
+
+---
 ## 🗨️ Citing in MS Word
+
 
 ---
 ## 👂 Generate Bibliography in MS Word
 
+
 ---
 ## 🗃️ "Folder" system in Zotero
+- 🏛️ Library - EVERYTHING!
+- 🗃️ Collection - Virtual group for ideas
+- 📚 Subcollection - Containing items
+- 🧠 Smart Folders (i.e. Duplicate, Unfiled, Retracted)
+
+> [!info] Collection and subcollection are essentially the same thing
 
 ---
 ## 🗄️ Two ways files are stored
+1. 🫠 You store and name the files yourself
+2. 🚶‍♂️ Leave it to Zotero to manage the files
+
+---
+## 🔢Don't worry if you have many copies of items
+- Duplicate Items in Collection pane can help deduplication
+- Zotero intelligently knows they are duplicates
+- You can decide which items to be the "base" item for merging
+
+> [!warning] Although sometime you deliberately want to have copies if you review the same paper but for different projects
+
+
 ---
 ## Part 2
-# Literature Review and Management
+# Literature Management and Review
+
 
 ---
-## 🖥️ Zotero interface
+## 🖥️ Zotero Interface
+- 📂 Collections Pane - "Folder"
+- 📃 Item Pane - List of sources
+- 🏷️ Tag Selector - To filter items within the "Folder"
+- 📑 Metadata - Layout can be on the right or bottom
+- 📁 Tab - Appears when PDF opened
 
 ---
-## 🔌 Two most essential plugins
+## 🔌 Essential Plugins
 
+- Zutilo
+	- Purpose: Extra menu items 
+	- Link: https://github.com/wshanks/Zutilo
+- Better BibTeX
+	- Purpose: Integration with other text-based toolchains
+	- Link: https://retorque.re/zotero-better-bibtex/
+
+**Plugin Installation Steps**
+1. Download .xpi from plugin website
+2. Zotero main menu - Tools > Add-ons > Extensions
+3. Click ⚙️ > Install Add-on From File…
+4. Choose .xpi that you’ve just downloaded, click ‘Install’
 ---
-## Item Info ℹ️, Notes 📝, Tags 🏷️, & Related 🔗
+## Item's Metadata
+- 📄 Info
+- 📝 Notes
+- 🏷️ Tags
+- 🔗 Related
+
 
 ---
 ## ✏️Annotating PDF within Zotero
+- 🖌️ Multi Coloured Highlighter
+- 📒 Multi Coloured Sticky Notes
+- ⏹️ Multi Coloured Area Selection
+- 📄 General Notes
+
 
 ---
 # Thank you!
@@ -129,6 +195,8 @@ Demonstration integration with Obsidian Note Taking tools
 
 References: 
 https://www.zotero.org/support/
+
+
 ---
 ## Part 3: Extra
 # Demo
